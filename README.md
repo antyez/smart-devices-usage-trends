@@ -1,3 +1,6 @@
+
+# Product Usage Analysis for Health Tracking Devices
+
 ### Executive Summary:
 
 User retention and device engagement are critical for Bellabeat’s growth in the smart device market. Using SQL, Tableau, and Excel, I analyzed Fitbit user data to identify where engagement drops occur. I discovered that 40% of users (dataset from March & April 2016) are categorized as sedentary and 31% fail to wear the device at night. I recommend implementing "Micro-movement" which is notifications to remind users to move triggers and a metabolic reward visualization which might feel as a psychological win for the user, these recommendations could significantly increase daily active engagement and data retention.
